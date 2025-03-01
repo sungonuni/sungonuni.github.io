@@ -15,13 +15,13 @@ _**KEYWORD**: Quantization, Low-precision training, Fully quantized training, Po
 
 
 News
-======
+-----
 - [Feb. 25] 1 paper has been accepted to [**CVPR 2025**](https://cvpr.thecvf.com/).
 - [Jul. 24] 1 paper has been accepted to [**WACV 2025**](wacv2025.thecvf.com).
 
 
 Publications
-======
+-----
 
 - HOT: Hadamard-based optimized training  
 **Seonggon Kim**, Juncheol Shin, Seung-taek Woo, Eunhyeok Park  
@@ -41,7 +41,7 @@ arXiv 2406.
 
 
 Experience
-======
+-----
 - **SOFTWARE ENGINEER INTERN**, Jul. 2022 ~ Feb. 2023   
 Spirent Communications, San Jose, CA, USA
 
@@ -53,7 +53,7 @@ SI Analytics, Daejeon, Korea
 
 
 Awards & Honors
-======
+-----
 - ETHDenver 2022 Blockchain Hackathon NFT project, **3rd Prize**  
 SporkDAO, Feb. 2022
 
@@ -64,7 +64,7 @@ CVPR, Jun. 2021
 
 
 Education
-======
+-----
 - **M.S/Ph.D.** in Computer Science and Engineering, [POSTECH](https://www.postech.ac.kr)  
 Sep. 2023 ~ Present
 
