@@ -9,9 +9,9 @@ redirect_from:
 
 I'm a second-year Ph.D student of [Efficient Computing Lab](https://sites.google.com/view/eh-p) in the Department of Computer Science & Engineering at the [POSTECH](https://www.postech.ac.kr), advised by Prof. Eunhyeok Park. Before joining POSTECH, I finished my B.S. degree in Computer Science & Engineering from [Kyung Hee University](https://www.khu.ac.kr).
 
-I'm interested in **model compression**, particularly in enhancing memory efficiency and acceleration of AI through **quantization**. My recent research focuses on low-precision training and fine-tuning, which aims to achieve acceleration, memory reduction, and performance maximization during training. I currently focus on **CUDA kernel** optimization.
+I'm interested in model compression, particularly in enhancing memory efficiency and acceleration of AI through **quantization**. My recent research focuses on **low-precision training** and fine-tuning, which aims to achieve acceleration, memory reduction, and performance maximization during training. I currently focus on **CUDA kernel optimization**.
 
-**KEYWORD**: Quantization, Low-precision training, Fully quantized training, Post-training quantization for LLM, CUDA Kernel optimization
+_**KEYWORD**: Quantization, Low-precision training, Fully quantized training, Post-training quantization for LLM, CUDA Kernel optimization_
 
 
 News
@@ -31,7 +31,7 @@ Computer Vision and Pattern Recognition (**CVPR 2025**), Nashville.
 Younghyun Cho*, Changhun Lee*, **Seonggon Kim**, Eunhyeok Park  
 Winter Conference on Applications of Computer Vision (**WACV 2025 Oral**), Tucson.
 
-- Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation 
+- Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation  
 Juncheol Shin, Minsang Seok, **Seonggon Kim**, Eunhyeok Park  
 International Conference on Machine Learning (**ICML 2025**, Under review), Vancouver.
 
@@ -50,8 +50,6 @@ Common Computer, Seoul, Korea
 
 - **RESEARCH INTERN**, Mar. 2021 ~ Dec. 2021  
 SI Analytics, Daejeon, Korea
-
-
 
 
 Awards & Honors
