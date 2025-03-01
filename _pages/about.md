@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D student of [Efficient Computing Lab](https://sites.google.com/view/eh-p) in the Department of Computer Science & Engineering at the [POSTECH](https://www.postech.ac.kr), advised by Prof. Eunhyeok Park. Before joining POSTECH, I finished my B.S. degree in Computer Science & Engineering from [Kyung Hee University](https://www.khu.ac.kr).
+I'm a second-year Ph.D student of [Efficient Computing Lab](https://sites.google.com/view/eh-p) in the Department of Computer Science & Engineering at [POSTECH](https://www.postech.ac.kr), advised by Prof. Eunhyeok Park. Before joining POSTECH, I completed my B.S. in Department of Computer Science & Engineering in [Kyung Hee University](https://www.khu.ac.kr).
 
 I'm interested in model compression, particularly in enhancing memory efficiency and acceleration of AI through **quantization**. My recent research focuses on **low-precision training** and fine-tuning, which aims to achieve acceleration, memory reduction, and performance maximization during training. I currently focus on **CUDA kernel optimization**.
 
@@ -16,8 +16,8 @@ _**KEYWORD**: Quantization, Low-precision training, Fully quantized training, Po
 
 News
 -----
-- [Feb. 25] 1 paper has been accepted to [**CVPR 2025**](https://cvpr.thecvf.com/).
-- [Jul. 24] 1 paper has been accepted to [**WACV 2025**](wacv2025.thecvf.com).
+- [Feb. 25, 2025] 1 paper has been accepted to [**CVPR 2025**](https://cvpr.thecvf.com/).
+- [Oct. 28, 2024] 1 paper has been accepted to [**WACV 2025**](wacv2025.thecvf.com).
 
 
 Publications
