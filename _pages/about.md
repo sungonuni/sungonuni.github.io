@@ -42,13 +42,13 @@ arXiv 2406.
 
 Experience
 -----
-- **SOFTWARE ENGINEER INTERN**, Jul. 2022 ~ Feb. 2023   
+- **Software Engineer Intern**, Jul. 2022 ~ Feb. 2023   
 Spirent Communications, San Jose, CA, USA
 
-- **SOFTWARE ENGINEER INTERN**, Feb. 2022 ~ Jun. 2022  
+- **Software Engineer Intern**, Feb. 2022 ~ Jun. 2022  
 Common Computer, Seoul, Korea
 
-- **RESEARCH INTERN**, Mar. 2021 ~ Dec. 2021  
+- **Research Intern**, Mar. 2021 ~ Dec. 2021  
 SI Analytics, Daejeon, Korea
 
 
