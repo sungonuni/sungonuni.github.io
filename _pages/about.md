@@ -28,32 +28,32 @@ News
 Publications
 ======
 
-**HOT: Hadamard-based optimized training**  
+- **HOT: Hadamard-based optimized training**  
 **Seonggon Kim**, Juncheol Shin, Seung-taek Woo, Eunhyeok Park  
 Computer Vision and Pattern Recognition (**CVPR 2025**), Nashville.
 
-[**PTQ4VM: Post-training Quantization for Visual Mamba**](https://arxiv.org/abs/2412.20386)  
+- [**PTQ4VM: Post-training Quantization for Visual Mamba**](https://arxiv.org/abs/2412.20386)  
 Younghyun Cho*, Changhun Lee*, **Seonggon Kim**, Eunhyeok Park  
 Winter Conference on Applications of Computer Vision (**WACV 2025 Oral**), Tucson.
 
-**Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation** (In progress)  
+- **Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation** (In progress)  
 Juncheol Shin, Minsang Seok, **Seonggon Kim**, Eunhyeok Park  
 International Conference on Machine Learning (**ICML 2025**), Vancouver.
 
-[**HLQ: Fast and Efficient Backpropagation via Hadamard Low-rank Quantization**](https://arxiv.org/abs/2406.15102)  
+- [**HLQ: Fast and Efficient Backpropagation via Hadamard Low-rank Quantization**](https://arxiv.org/abs/2406.15102)  
 **Seonggon Kim**, Eunhyeok Park  
 arXiv 2406.
 
 
 Experience
 ======
-**SOFTWARE ENGINEER INTERN**, Jul. 2022 ~ Feb. 2023   
+- **SOFTWARE ENGINEER INTERN**, Jul. 2022 ~ Feb. 2023   
 Spirent Communications, San Jose, CA, USA
 
-**SOFTWARE ENGINEER INTERN**, Feb. 2022 ~ Jun. 2022  
+- **SOFTWARE ENGINEER INTERN**, Feb. 2022 ~ Jun. 2022  
 Common Computer, Seoul, Korea
 
-**RESEARCH INTERN**, Mar. 2021 ~ Dec. 2021  
+- **RESEARCH INTERN**, Mar. 2021 ~ Dec. 2021  
 SI Analytics, Daejeon, Korea
 
 
@@ -61,10 +61,10 @@ SI Analytics, Daejeon, Korea
 
 Awards & Honors
 ======
-ETHDenver 2022 Blockchain Hackathon NFT project, **3rd Prize**  
+- ETHDenver 2022 Blockchain Hackathon NFT project, **3rd Prize**  
 SporkDAO, Feb. 2022
 
-CVPR 2021 Earthvision workshop, Land Cover Classification Challenge, **5st Prize**  
+- CVPR 2021 Earthvision workshop, Land Cover Classification Challenge, **5st Prize**  
 CVPR, Jun. 2021
 
 
