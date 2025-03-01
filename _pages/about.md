@@ -23,7 +23,7 @@ News
 Publications
 -----
 
-- HOT: Hadamard-based optimized training  
+- HOT: Hadamard-based Optimized Training  
 **Seonggon Kim**, Juncheol Shin, Seung-taek Woo, Eunhyeok Park  
 Computer Vision and Pattern Recognition (**CVPR 2025**), Nashville.
 
@@ -57,7 +57,7 @@ Awards & Honors
 - ETHDenver 2022 Blockchain Hackathon NFT project, **3rd Prize**  
 SporkDAO, Feb. 2022
 
-- CVPR 2021 Earthvision workshop, Land Cover Classification Challenge, **5st Prize**  
+- CVPR 2021 Earthvision workshop, Land Cover Classification Challenge, **5th Prize**  
 CVPR, Jun. 2021
 
 
