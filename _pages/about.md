@@ -11,12 +11,7 @@ I'm a second-year Ph.D student of [Efficient Computing Lab](https://sites.google
 
 I'm interested in **model compression**, particularly in enhancing memory efficiency and acceleration of AI through **quantization**. My recent research focuses on low-precision training and fine-tuning, which aims to achieve acceleration, memory reduction, and performance maximization during training. I currently focus on **CUDA kernel** optimization.
 
-**KEYWORD**	
-- Quantization
-- Low-precision training
-- Fully quantized training
-- Post-training quantization for LLM
-- CUDA Kernel optimization
+**KEYWORD**: Quantization, Low-precision training, Fully quantized training, Post-training quantization for LLM, CUDA Kernel optimization
 
 
 News
@@ -28,19 +23,19 @@ News
 Publications
 ======
 
-- **HOT: Hadamard-based optimized training**  
+- HOT: Hadamard-based optimized training  
 **Seonggon Kim**, Juncheol Shin, Seung-taek Woo, Eunhyeok Park  
 Computer Vision and Pattern Recognition (**CVPR 2025**), Nashville.
 
-- [**PTQ4VM: Post-training Quantization for Visual Mamba**](https://arxiv.org/abs/2412.20386)  
+- [PTQ4VM: Post-training Quantization for Visual Mamba](https://arxiv.org/abs/2412.20386)  
 Younghyun Cho*, Changhun Lee*, **Seonggon Kim**, Eunhyeok Park  
 Winter Conference on Applications of Computer Vision (**WACV 2025 Oral**), Tucson.
 
-- **Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation** (In progress)  
+- Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation 
 Juncheol Shin, Minsang Seok, **Seonggon Kim**, Eunhyeok Park  
-International Conference on Machine Learning (**ICML 2025**), Vancouver.
+International Conference on Machine Learning (**ICML 2025**, Under review), Vancouver.
 
-- [**HLQ: Fast and Efficient Backpropagation via Hadamard Low-rank Quantization**](https://arxiv.org/abs/2406.15102)  
+- [HLQ: Fast and Efficient Backpropagation via Hadamard Low-rank Quantization](https://arxiv.org/abs/2406.15102)  
 **Seonggon Kim**, Eunhyeok Park  
 arXiv 2406.
 
