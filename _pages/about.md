@@ -16,8 +16,8 @@ I'm interested in **model compression**, particularly in enhancing memory effici
 
 News
 ======
-- [Feb. 25] 1 paper has been accepted to [CVPR 2025](https://cvpr.thecvf.com/).
-- [Jul. 24] 1 paper has been accepted to [WACV 2025](wacv2025.thecvf.com).
+- [Feb. 25] 1 paper has been accepted to [**CVPR 2025**](https://cvpr.thecvf.com/).
+- [Jul. 24] 1 paper has been accepted to [**WACV 2025**](wacv2025.thecvf.com).
 
 
 Publications
