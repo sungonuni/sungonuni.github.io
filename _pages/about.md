@@ -28,7 +28,7 @@ Publications
 Computer Vision and Pattern Recognition (**CVPR 2025**), Nashville.
 
 - [PTQ4VM: Post-training Quantization for Visual Mamba](https://arxiv.org/abs/2412.20386)  
-Younghyun Cho*, Changhun Lee*, **Seonggon Kim**, Eunhyeok Park  
+Younghyun Cho\*, Changhun Lee\*, **Seonggon Kim**, Eunhyeok Park  
 Winter Conference on Applications of Computer Vision (**WACV 2025 Oral**), Tucson.
 
 - Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation  
