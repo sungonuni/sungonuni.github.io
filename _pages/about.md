@@ -17,7 +17,7 @@ _**KEYWORD**: Quantization, Low-precision training, Fully quantized training, Po
 News
 -----
 - [Feb. 25, 2025] 1 paper has been accepted to [**CVPR 2025**](https://cvpr.thecvf.com/).
-- [Oct. 28, 2024] 1 paper has been accepted to [**WACV 2025**](wacv2025.thecvf.com).
+- [Oct. 28, 2024] 1 paper has been accepted to [**WACV 2025**](https://wacv2025.thecvf.com/).
 
 
 Publications
