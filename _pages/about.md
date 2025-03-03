@@ -71,5 +71,5 @@ Feb. 2017 - Aug. 2023
 
 Teaching Experience
 -----
-- Teaching Assistant, Mar. 2025 - June. 2025
+- Teaching Assistant, Mar. 2025 - June. 2025  
 CSED311: Computer Architecture, [POSTECH](https://www.postech.ac.kr) 
