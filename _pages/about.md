@@ -42,13 +42,13 @@ arXiv 2406.
 
 Experience
 -----
-- **Software Engineer Intern**, Jul. 2022 ~ Feb. 2023   
+- **Software Engineer Intern**, Jul. 2022 - Feb. 2023   
 Spirent Communications, San Jose, CA, USA
 
-- **Software Engineer Intern**, Feb. 2022 ~ Jun. 2022  
+- **Software Engineer Intern**, Feb. 2022 - Jun. 2022  
 Common Computer, Seoul, Korea
 
-- **Research Intern**, Mar. 2021 ~ Dec. 2021  
+- **Research Intern**, Mar. 2021 - Dec. 2021  
 SI Analytics, Daejeon, Korea
 
 
@@ -61,12 +61,15 @@ SporkDAO, Feb. 2022
 CVPR, Jun. 2021
 
 
-
-
 Education
 -----
 - **M.S/Ph.D.** in Computer Science and Engineering, [POSTECH](https://www.postech.ac.kr)  
-Sep. 2023 ~ Present
+Sep. 2023 - Present
 
 - **B.S.** in Computer Science and Engineering, [Kyung Hee University](https://www.khu.ac.kr)  
-Feb. 2017 ~ Aug. 2023
+Feb. 2017 - Aug. 2023
+
+Teaching Experience
+-----
+- Teaching Assistant, Mar. 2025 - June. 2025
+CSED311: Computer Architecture, [POSTECH](https://www.postech.ac.kr) 
