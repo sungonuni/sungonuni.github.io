@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a second-year Ph.D student of [Efficient Computing Lab](https://sites.google.com/view/eh-p) in the Department of Computer Science & Engineering at [POSTECH](https://www.postech.ac.kr), advised by Prof. Eunhyeok Park. Before joining POSTECH, I completed my B.S. in Department of Computer Science & Engineering in [Kyung Hee University](https://www.khu.ac.kr).
 
-I'm interested in model compression, particularly in enhancing memory efficiency and acceleration of AI through **quantization**. My recent research focuses on **low-precision training** and fine-tuning, which aims to achieve acceleration, memory reduction, and performance maximization during training. I currently focus on **CUDA kernel optimization**.
+I'm interested in model compression, particularly in enhancing memory efficiency and acceleration of AI through **Quantization**. My recent research focuses on **Low-precision training** and fine-tuning, which aims to achieve acceleration, memory reduction, and performance maximization during training. I’m currently focus on **Fully quantized training in microscaling format**.
 
 _**KEYWORD**: Quantization, Low-precision training, Fully quantized training, Post-training quantization for LLM, CUDA Kernel optimization_
 
