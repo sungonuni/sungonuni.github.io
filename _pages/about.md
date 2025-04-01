@@ -23,13 +23,13 @@ News
 Publications
 -----
 
-- HOT: Hadamard-based Optimized Training  
+- [HOT: Hadamard-based Optimized Training](https://arxiv.org/abs/2503.21261)  
 **Seonggon Kim**, Juncheol Shin, Seung-taek Woo, Eunhyeok Park  
 Computer Vision and Pattern Recognition (**CVPR 2025**), Nashville.
 
 - [PTQ4VM: Post-training Quantization for Visual Mamba](https://arxiv.org/abs/2412.20386)  
 Younghyun Cho\*, Changhun Lee\*, **Seonggon Kim**, Eunhyeok Park  
-Winter Conference on Applications of Computer Vision (**WACV 2025 Oral**), Tucson.
+Winter Conference on Applications of Computer Vision (**WACV 2025 <span style="color:red">Oral</span>**), Tucson.
 
 - Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation  
 Juncheol Shin, Minsang Seok, **Seonggon Kim**, Eunhyeok Park  
