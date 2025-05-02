@@ -16,6 +16,7 @@ _**KEYWORD**: Quantization, Low-precision training, Fully quantized training, Po
 
 News
 -----
+- [Mar. 02, 2025] 1 paper has been accepted to [**ICML 2025**](https://icml.cc//).
 - [Feb. 25, 2025] 1 paper has been accepted to [**CVPR 2025**](https://cvpr.thecvf.com/).
 - [Oct. 28, 2024] 1 paper has been accepted to [**WACV 2025**](https://wacv2025.thecvf.com/).
 
@@ -27,13 +28,13 @@ Publications
 **Seonggon Kim**, Juncheol Shin, Seung-taek Woo, Eunhyeok Park  
 Computer Vision and Pattern Recognition (**CVPR 2025**), Nashville.
 
+- Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation  
+Juncheol Shin, Minsang Seok, **Seonggon Kim**, Eunhyeok Park  
+International Conference on Machine Learning (**ICML 2025**), Vancouver.
+
 - [PTQ4VM: Post-training Quantization for Visual Mamba](https://arxiv.org/abs/2412.20386)  
 Younghyun Cho\*, Changhun Lee\*, **Seonggon Kim**, Eunhyeok Park  
 Winter Conference on Applications of Computer Vision (**WACV 2025 <span style="color:red">Oral</span>**), Tucson.
-
-- Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation  
-Juncheol Shin, Minsang Seok, **Seonggon Kim**, Eunhyeok Park  
-International Conference on Machine Learning (**ICML 2025**, Under review), Vancouver.
 
 - [HLQ: Fast and Efficient Backpropagation via Hadamard Low-rank Quantization](https://arxiv.org/abs/2406.15102)  
 **Seonggon Kim**, Eunhyeok Park  
