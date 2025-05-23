@@ -28,6 +28,10 @@ Publications
 **Seonggon Kim**, Juncheol Shin, Seung-taek Woo, Eunhyeok Park  
 Computer Vision and Pattern Recognition (**CVPR 2025**), Nashville.
 
+- HoLA: Overcoming the full-finetuning with Hadamard-oriented LoRA
+**Seonggon Kim**, Taehyeon Kim, Byeori Kim, Eunhyeok Park  
+Neural Information Processing Systems (**NeurIPS 2025**, Under review), San Diego.
+
 - Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation  
 Juncheol Shin, Minsang Seok, **Seonggon Kim**, Eunhyeok Park  
 International Conference on Machine Learning (**ICML 2025**), Vancouver.
