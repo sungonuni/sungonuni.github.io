@@ -83,7 +83,7 @@ In this work, we propose **EVMT-HLA**, a simple yet powerful technique that impr
 
 This approach allows us to **emphasize informative, low-frequency components while suppressing noisy, high-frequency ones—leading to better learning dynamics and significantly lower memory usage during training.**
 <div align="center">
-<img src="./Image/architecture.png" style="width:600px;">
+<img src="/images/EVMT-HLA/architecture.png" style="width:600px;">
 </div>
 
 ### Low-Rank Matrix Multiplication via HLA
@@ -127,27 +127,27 @@ We selected SimCLR [1], BYOL [2], and DeiT [3] as target models for our experime
 - **Standard Floating-point (FP) Training V.S. EVMT-HLA**
     - For SimCLR [1], our EVMT-HLA showed an **improvement of approximately 0.5%p**, and for other models, the performance remained **nearly identical to FP training.**
     <div align="center">
-    <img src="./Image/main_results.png" style="width:550px;">
+    <img src="/images/EVMT-HLA/main_results.png" style="width:550px;">
     </div>
         
 - **Memory reduction**
     - By applying EVMT-HLA with a 50% rank reduction ratio, we observe a **memory reduction of more than 50%** compared to FP training for all models.
     <div align="center">
-    <img src="./Image/memory_reduction.png" style="width:400px;">
+    <img src="/images/EVMT-HLA/memory_reduction.png" style="width:400px;">
     </div>
 
     
 - **Convergence Speed**
     - When using EVMT-HLA, we observe **faster convergence** compared to FP training. The figure below shows the training loss curve of SimCLR [1].
     <div align="center">
-    <img src="./Image/convergence.png" style="width:600px;">
+    <img src="/images/EVMT-HLA/convergence.png" style="width:600px;">
     </div>
 
 - **Dropout V.S. EVMT-HLA**
     - Despite the reduction of tensor size by half during gradient computation, the performance was preserved—and even improved in the case of SimCLR [1]. We hypothesize that this is due to the presence of meaningful gradient components in the low-frequency spectrum, as well as a potential **regularization effect.** To validate this hypothesis, we employed dropout as a form of regularization, which randomly selects tensor elements to be dropped. We compared models trained with a 50% dropout ratio to those trained using EVMT-HLA with 50% preservation of low-frequency components.
     - As a result, while applying dropout led to nearly a 50% drop in performance compared to FP training, EVMT-HLA maintained performance comparable to FP, and in some cases even outperformed it. These findings suggest that **low frequency component of gradient successfully captures the critical components for learning, and the observed improvement can be attributed to its effective regularization effect.**
     <div align="center">
-    <img src="./Image/dropout.png" style="width:550px;">
+    <img src="/images/EVMT-HLA/dropout.png" style="width:550px;">
     </div>
 
     
@@ -155,7 +155,7 @@ We selected SimCLR [1], BYOL [2], and DeiT [3] as target models for our experime
     - In EVMT-HLA, the rank reduction ratio determines the percentage of the tensor size that is reduced before weight gradient calculation. As this ratio increases, more information is discarded, resulting in a decline in performance. As an example, we conducted a sweep of reduction ratios from 90% to 50% in SimCLR [1] and measured the performance.
     - We found that up to a 70% reduction ratio, the preserved low-frequency components still retain essential information. However, when the ratio drops below 70%, significant information loss occurs.
     <div align="center">
-    <img src="./Image/memory_reduction.png" style="width:400px;">
+    <img src="/images/EVMT-HLA/memory_reduction.png" style="width:400px;">
     </div>
 
     
