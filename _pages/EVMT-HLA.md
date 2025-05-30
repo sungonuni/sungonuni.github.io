@@ -50,7 +50,7 @@ $$
 H_1 = \frac{1}{\sqrt{2}} \begin{bmatrix} 1 & 1 \\ 1 & -1 \end{bmatrix}, \quad H_n = H_1 \otimes H_{n-1}
 $$
 
-Given an input vector $`X \in {R}^{2^d}`$, the Hadamard Transform can be computed via matrix multiplication:
+Given an input vector $X \in {R}^{2^d}$, the Hadamard Transform can be computed via matrix multiplication:
 
 $$
 Y = X \cdot H_d
