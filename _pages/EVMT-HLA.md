@@ -1,24 +1,21 @@
 ---
 layout: archive
-title: "EVMT-HLA"
+title: "Training with Half Memory: Vision Model Training via Hadamard Low-Rank Adaptation"
 permalink: /EVMT-HLA/
 ---
 
-# Training with Half Memory: Vision Model Training via Hadamard Low-Rank Adaptation
 
 ## **One-Sentence Teaser**
 
-<aside>
-
-
 By using Hadamard low-rank adaptation, we reduce memory usage by **up to 50%**—while **preserving pretraining loss and accuracy in DeiT**, and **even improving performance in SimCLR, BYOL.**
 
-</aside>
 
 ## **TL;DR**
-<div align="center">
+<!-- <div align="center">
 <img src="./Image/concept.png" style="width:600px;">
-</div>
+</div> -->
+
+![Academic Pages template example](./Image/concept.png "Academic Pages template example")
 
 
 - **Problem:** Various vision models—including self-supervised learning (SSL) frameworks such as SimCLR [1] and BYOL [2], as well as supervised models like DeiT [3]—often suffer from memory constraints due to their large batch size requirements.
