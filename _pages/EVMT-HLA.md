@@ -11,11 +11,10 @@ By using Hadamard low-rank adaptation, we reduce memory usage by **up to 50%**�
 
 
 ## **TL;DR**
-<!-- <div align="center">
-<img src="./Image/concept.png" style="width:600px;">
-</div> -->
+<div align="center">
+<img src="/images/EVMT-HLA/concept.png" style="width:600px;">
+</div>
 
-![Academic Pages template example](./Image/concept.png "Academic Pages template example")
 
 
 - **Problem:** Various vision models—including self-supervised learning (SSL) frameworks such as SimCLR [1] and BYOL [2], as well as supervised models like DeiT [3]—often suffer from memory constraints due to their large batch size requirements.
