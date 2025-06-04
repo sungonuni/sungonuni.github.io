@@ -32,7 +32,7 @@ Computer Vision and Pattern Recognition (**CVPR 2025**), Nashville.
 **Seonggon Kim**, Taehyeon Kim, Byeori Kim, Eunhyeok Park  
 Neural Information Processing Systems (**NeurIPS 2025**, Under review), San Diego.
 
-- Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation  
+- [Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation](https://arxiv.org/abs/2505.23651)  
 Juncheol Shin, Minsang Seok, **Seonggon Kim**, Eunhyeok Park  
 International Conference on Machine Learning (**ICML 2025**), Vancouver.
 
