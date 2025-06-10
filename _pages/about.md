@@ -9,10 +9,19 @@ redirect_from:
 
 I'm a second-year Ph.D student of [Efficient Computing Lab](https://sites.google.com/view/eh-p) in the Department of Computer Science & Engineering at [POSTECH](https://www.postech.ac.kr), advised by Prof. Eunhyeok Park. Before joining POSTECH, I completed my B.S. in Department of Computer Science & Engineering in [Kyung Hee University](https://www.khu.ac.kr).
 
-I'm interested in model compression, particularly in enhancing memory efficiency and acceleration of AI through **Quantization**. My recent research focuses on **Low-Precision Training** and fine-tuning, which aims to achieve acceleration, memory reduction, and performance maximization during training. I’m currently focusing on **Training-Inference Acceleration via Quantization and Low-rank Approximation**.
+I'm currently focus on Efficient AI, particularly in enhancing **Memory Efficiency** and **Computation Acceleration** during model training and inference of various models (Vision, LLM, Video Generation, etc.) via **Quantization** and **Low-rank Approximation**.
+
+Research Keywords
+-----
+- Fast and Memory Efficient Training of Vision models ([CVPR 2025](https://arxiv.org/abs/2503.21261), [arXiv preprint](https://arxiv.org/abs/2406.15102))
+- Fast and Memory Efficient Inference of Vision models ([ICML 2025](https://arxiv.org/abs/2505.23651), [WACV 2025](https://arxiv.org/abs/2412.20386))
+- Parameter Efficient Fine-tuning of LLMs (NeurIPS 2025 Under Review)
+- Fast Sampling of Video Genenration Diffusion Models
+
+<!-- I'm interested in model compression, particularly in enhancing memory efficiency and acceleration of AI through **Quantization**. My recent research focuses on **Low-Precision Training** and fine-tuning, which aims to achieve acceleration, memory reduction, and performance maximization during training. I’m currently focusing on **Training-Inference Acceleration via Quantization and Low-rank Approximation**.
 
 _**KEYWORD**: 
- Low-Precision Training, Quantization for LLM, Low-rank Approximation, CUDA Kernel optimization_
+ Low-Precision Training, Quantization for LLM, Low-rank Approximation, CUDA Kernel optimization_ -->
 
 
 News
