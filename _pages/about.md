@@ -23,6 +23,9 @@ Research Keywords
 
 News
 -----
+- [Nov. 03, 2025] I've joined [**AMD**](https://www.amd.com/) as a Research Associate. 
+- [Oct. 21, 2025] I've been nominated as finalist (Top 30 best papers) of [**Qualcomm Innovation Fellowship Korea**](https://www.qualcomm.com/research/university-relations/innovation-fellowship).
+- [Oct. 01, 2025] I've been selected for the [**BK21 Outstanding Graduate Student International Training Scholarship**](https://bk21four.nrf.re.kr/) by Ministry of Science and ICT, South Korea.
 - [Mar. 02, 2025] 1 paper has been accepted to [**ICML 2025**](https://icml.cc//).
 - [Feb. 25, 2025] 1 paper has been accepted to [**CVPR 2025**](https://cvpr.thecvf.com/).
 - [Oct. 28, 2024] 1 paper has been accepted to [**WACV 2025**](https://wacv2025.thecvf.com/).
@@ -81,6 +84,8 @@ Ministry of Science and ICT of Korea
 
 Experience
 -----
+- **Research Associate**, Nov. 2025 - Current  
+AMD, Longmont, CO, USA
 - **Software Engineer Intern**, Jul. 2022 - Feb. 2023   
 Spirent Communications, San Jose, CA, USA
 
@@ -93,6 +98,10 @@ SI Analytics, Daejeon, Korea
 
 Awards & Honors
 -----
+- Qualcomm Innovation Fellowship Korea, **Finalist (Top 30 best papers)**, Oct. 2025
+
+- BK21 Outstanding Graduate Student International Training Scholarship, **Selected Graduate Student**, Oct. 2025
+
 - ETHDenver 2022 Blockchain Hackathon NFT project, **3rd Prize**  
 SporkDAO, Feb. 2022
 
