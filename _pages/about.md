@@ -7,17 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D student of [Efficient Computing Lab](https://sites.google.com/view/eh-p) in the Department of Computer Science & Engineering at [POSTECH](https://www.postech.ac.kr), advised by Prof. Eunhyeok Park. Before joining POSTECH, I completed my B.S. in Department of Computer Science & Engineering in [Kyung Hee University](https://www.khu.ac.kr).
+I'm a third-year Ph.D student of [Efficient Computing Lab](https://sites.google.com/view/eh-p) in the Department of Computer Science & Engineering at [POSTECH](https://www.postech.ac.kr), advised by Prof. Eunhyeok Park. Before joining POSTECH, I completed my B.S. in Department of Computer Science & Engineering in [Kyung Hee University](https://www.khu.ac.kr).
 
 I'm currently focusing on Efficient AI, particularly in enhancing **Memory Efficiency** and **Computation Acceleration** during model **training** and **inference** of various models (Vision, LLM, Video Generation, etc.) via **Quantization** and **Low-rank Approximation**.
 
 Research Keywords
 -----
-- Fast and Memory Efficient Training ([A01](#A01), [C03](#C03))
-- Fast and Memory Efficient Inference ([C01](#C01), [C02](#C02))
-- Parameter Efficient Fine-tuning of LLMs ([U01](#U01), [P03](#P03))
-- CUDA Kernel optimization ([P01](#P01), [P02](#P03), [P03](#P03), [C01](#C01), [C03](#C03))
-- Fast Sampling of Video Generation Diffusion Models
+- Fast and Memory Efficient Training ([A01](#A01), [A02](#A02), [C03](#C03))
+- Fast and Memory Efficient Inference ([C01](#C01), [C02](#C02), [P02](#P02), [P04](#P04))
+- Parameter Efficient Fine-tuning of LLMs ([P03](#P03))
+- HW - SW codesign via kernel optimization ([P02](#P03), [P04](#P04))
 
 
 
@@ -33,6 +32,11 @@ News
 
 Publications
 -----
+<a id="A02"></a>
+- **[A02]** [AdaHOP: Fast and Accurate Low-Precision Training via Outlier-Pattern-Aware Rotation](https://arxiv.org/abs/2604.02525)  
+**Seonggon Kim**, Alireza Khodamoradi, Pranathi Vasireddy, Kristof Denolf, Eunhyeok Park  
+arXiv 2604.
+
 <a id="C03"></a>
 - **[C03]** [HOT: Hadamard-based Optimized Training](https://arxiv.org/abs/2503.21261)  
 **Seonggon Kim**, Juncheol Shin, Seung-taek Woo, Eunhyeok Park  
@@ -48,44 +52,60 @@ International Conference on Machine Learning (**ICML 2025**), Vancouver.
 Younghyun Cho\*, Changhun Lee\*, **Seonggon Kim**, Eunhyeok Park  
 Winter Conference on Applications of Computer Vision (**WACV 2025 <span style="color:red">Oral</span>**), Tucson.
 
-<a id="U01"></a>
-- **[U01]** HoLA: Overcoming the full-finetuning with Hadamard-oriented LoRA  
-**Seonggon Kim**, Taehyeon Kim, Byeori Kim, Eunhyeok Park  
-Neural Information Processing Systems (**NeurIPS 2025**, Under review), San Diego.
-
 <a id="A01"></a>
 - **[A01]** [HLQ: Fast and Efficient Backpropagation via Hadamard Low-rank Quantization](https://arxiv.org/abs/2406.15102)  
 **Seonggon Kim**, Eunhyeok Park  
 arXiv 2406.
 
+
 Project
 -----
+
+<a id="P05"></a>
+- **[P05]** Low-Precision Training on AMD GPU architechture,	Jun. 2024 - Jun. 2025   
+Advanced Micro Devices
+  - Conducted research on Low-Precision (MXFP4) Training on AMD CDNA4 architecture. 
+  - Implemented **ROCm kernel** for training acceleration. 
+  - Achieved **3.6X memory compression, 1.46X acceleration** over BF16. 
+  - Published the result on [A02](#A02)
+
+
+<a id="P04"></a>
+- **[P04]** Solutions for slow SVD approximation problem of KV Cache compression,	Jun. 2024 - Jun. 2025   
+POSTECH
+  - Conducted research on slow SVD approximation problem during KV Cache compression.
+  - Implemented **CUDA kernel** for SVD approximation acceleration.    
+  - Achieved **5.1X acceleration and 95% similarty** with exact SVD operation on GSM8K using LLaMA3-8B. 
+  - The result of research is under review.
+
 <a id="P03"></a>
-- **[P03]** Fast and Memory-efficient training on Extreme environment, Jul. 2024 – Current  
-National AI Research Lab of Korea  
-  - Conducted research on **memory-efficient training** for vision models.  
-  - Prototype development of an **optimized CUDA kernel** for memory-efficient training.
+- **[P03]** Solutions for misaligned weight initialization problem of LoRA finetuning,	Jun. 2024 - Jun. 2025   
+POSTECH
+  - Conducted research on Effective LoRA weight initialization.    
+  - Achieved **99% accuracy of full fine-tuning** with only rank 16 on GSM8K using LLaMA3-8B. 
+  - The result of research is under review.
 
 <a id="P02"></a>
 - **[P02]** GEMV Accelerator for LLM inference on Intel Gaudi-2,	Jun. 2024 - Jun. 2025   
 Naver & Intel Joint Research Center  
-  - Conducted research on **LLM’s fast inference** on Intel Gaudi-2 architecture.    
+  - Conducted research on LLM’s fast inference on Intel Gaudi-2 architecture.    
   - Implemented custom **GEMV kernel for Gaudi** with TPC-C language.  
   - Transplanted LUT Quantization from CUDA to Gaudi TPC.  
 
 <a id="P01"></a>
-- **[P01]** Solutions for Self-supervised training on Edge Device,	Jun. 2023 – Current  
+- **[P01]** Solutions for Efficient training on limited GPU environment,	Jun. 2023 – Current  
 Ministry of Science and ICT of Korea
-  - Conducted research on **fast fine-tuning** on Edge device.  
-  - Designed an efficient fine-tuning algorithm with stochastic quantization.  
-  - Implemented **custom CUDA kernel** for fast fine-tuning.  
-
+  - Conducted research on Low-Precision (INT4) Training on limited GPU environment.  
+  - Implemented **CUDA kernel** for training acceleration.
+  - Achieved up to **75% memory savings and a 2.6X acceleration** over FP32.
+  - Published the result on [A01](#A01), [C03](#C03)
 
 
 Experience
 -----
-- **Research Associate**, Nov. 2025 - Current  
-AMD, Longmont, CO, USA
+- **Research Associate**, Nov. 2025 - May. 2026  
+Advanced Micro Devices, Longmont, CO, USA
+
 - **Software Engineer Intern**, Jul. 2022 - Feb. 2023   
 Spirent Communications, San Jose, CA, USA
 
@@ -98,12 +118,9 @@ SI Analytics, Daejeon, Korea
 
 Awards & Honors
 -----
-- Qualcomm Innovation Fellowship Korea, **Winner**, Oct. 2025
+- Qualcomm Innovation Fellowship Korea, **Final Winner**, Oct. 2025
 
 - BK21 Outstanding Graduate Student International Training Scholarship, **Selected Graduate Student**, Oct. 2025
-
-- ETHDenver 2022 Blockchain Hackathon NFT project, **3rd Prize**  
-SporkDAO, Feb. 2022
 
 - CVPR 2021 Earthvision workshop, Land Cover Classification Challenge, **5th Prize**  
 CVPR, Jun. 2021
@@ -119,5 +136,8 @@ Feb. 2017 - Aug. 2023
 
 Teaching Experience
 -----
+- Teaching Assistant, Sep. 2026 - Dec. 2026  
+CSED342: Artificial Intelligence, [POSTECH](https://www.postech.ac.kr) 
+
 - Teaching Assistant, Mar. 2025 - June. 2025  
 CSED311: Computer Architecture, [POSTECH](https://www.postech.ac.kr) 
