@@ -17,7 +17,7 @@ Research Keywords
 - Low-Precision Inference ([C01](#C01), [C02](#C02), [P02](#P02))
 - KV Cache Compression via Low-rank Approximation ([P04](#P04), [PT01](#PT01))
 - Parameter Efficient Fine-tuning of LLMs ([P03](#P03))
-- HW–SW Co-design via Kernel Optimization ([P02](#P01), [P02](#P02), [P04](#P04), [P05](#P05))
+- HW–SW Co-design via Kernel Optimization ([P01](#P01), [P02](#P02), [P04](#P04), [P05](#P05))
 
 
 
